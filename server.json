@@ -4,9 +4,8 @@
   "title": "Timbrix — CFDI 4.0 para México",
   "description": "Official Timbrix MCP server: stamp, cancel, and query Mexican CFDI 4.0 invoices from AI agents.",
   "repository": {
-    "url": "https://github.com/Timbrix/timbrix-platform",
-    "source": "github",
-    "subfolder": "packages/mcp"
+    "url": "https://github.com/Timbrix/mcp",
+    "source": "github"
   },
   "version": "0.5.0",
   "packages": [

@@ -12,8 +12,7 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Timbrix/timbrix-platform.git",
-    "directory": "packages/mcp"
+    "url": "https://github.com/Timbrix/mcp.git"
   },
   "homepage": "https://timbrix.mx",
   "author": "Ivan Sotelo",

@@ -7,7 +7,7 @@ MCP (Model Context Protocol) server for Timbrix — lets AI agents (Claude, Curs
 
 > **Full guide:** see [docs.timbrix.mx/ai-agents](https://docs.timbrix.mx/ai-agents) for setup, the complete tool reference, LangChain (TS/Python) examples, error handling, and authentication best practices for agents.
 >
-> This repository mirrors `packages/mcp` from the [Timbrix platform monorepo](https://github.com/Timbrix/timbrix-platform), synced automatically on every release. It's kept public and standalone so the source, examples, and issue tracker for `@timbrix/mcp` are easy to find and browse independently — open issues and PRs here.
+> This is the official public repository for `@timbrix/mcp` — open issues and PRs here.
 >
 > Listed in the [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=timbrix) as `mx.timbrix/mcp`.
 
